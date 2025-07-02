@@ -9,12 +9,14 @@ The exercises are based on the **Pseudocode Course** by **José Domingo Muñoz**
 
 Each `.psc` file corresponds to a small standalone algorithm designed to practice logic, structure, and basic operations using pseudocode. Topics include:
 
-- Swapping the values of two variables
-- Calculating a student's final grade from answers (correct, incorrect, blank)
-- Converting travel time into a target arrival hour
-- Determining the time it takes for one vehicle to catch up to another
-- Counting coins to calculate a total amount of money in euros
-
+- Sequential logic
+- Alternative o conditional algorithms
+- Repetitive structures
+- String of characters
+- Arrays
+- Functions
+- And more
+  
 These exercises are beginner-friendly and ideal for anyone starting with algorithmic thinking or preparing for formal programming courses.
 NOTE: *This exercises are in Spanish only*
 
