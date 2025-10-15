@@ -1,0 +1,9 @@
+This folder contains pseudocode exercises focused on repetitive logic, where instructions are executed multiple times using loops such as For, While, or Repeat-Until.
+These programs practice concepts such as:
+- Iterative calculations (factorials, powers, averages, savings)
+- Conditional loops and counters
+- Interval validation and accumulation of values
+- Simulation of real scenarios (multiplication tables, payrolls, payments over time)
+- Interactive programs with user-controlled repetition (menus, timers, number guessing)
+
+They help learners strengthen their understanding of iterative structures and repetition control in algorithmic logic and structured programming.
