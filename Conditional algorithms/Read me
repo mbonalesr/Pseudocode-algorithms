@@ -1,0 +1,13 @@
+This folder contains basic pseudocode exercises focused on conditional logic, where program flow is controlled by decisions using if-else statements and similar structures.
+
+These programs practice concepts such as:
+
+Checking whether a number is even, odd, or prime
+
+Determining the largest or smallest among given values
+
+Validating ranges and classifying numbers
+
+Calculating results based on conditions (e.g., discounts, grades, intervals)
+
+They are designed for beginners to strengthen their understanding of decision-making structures in algorithmic thinking and structured programming.
