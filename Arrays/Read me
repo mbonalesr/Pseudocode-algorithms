@@ -1,0 +1,12 @@
+This folder contains pseudocode exercises focused on arrays and indexed data structures, where programs
+store and process multiple values under a single variable name.
+
+These programs practice concepts such as:
+- Declaring and initializing one-dimensional and two-dimensional arrays
+- Iterating through arrays to read, modify, and display elements
+- Searching and sorting values within arrays
+- Performing aggregate operations (sums, averages, maximums, minimums)
+- Managing structured data like matrices, tables, and sequences
+
+They are designed for learners to strengthen their understanding of indexed storage, bulk data handling,
+and algorithmic techniques for organizing and processing collections in structured programming.
