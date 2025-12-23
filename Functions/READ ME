@@ -1,0 +1,12 @@
+This folder contains pseudocode exercises focused on modular programming with functions, where tasks are
+divided into reusable blocks that can be called independently.
+
+These programs practice concepts such as:
+- Defining and invoking user-created functions
+- Passing parameters by value and by reference
+- Returning results to the main algorithm
+- Organizing logic into smaller, reusable modules
+- Building interactive routines that combine multiple functions for complex tasks
+
+They are designed for learners to strengthen their understanding of modularity, abstraction, and
+structured problem-solving in algorithmic thinking and programming.
