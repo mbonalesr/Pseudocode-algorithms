@@ -1,0 +1,12 @@
+This folder contains pseudocode exercises focused on string and character manipulation, where programs
+process text data through indexing, slicing, and validation techniques.
+
+These programs practice concepts such as:
+- Counting vowels, consonants, and specific characters
+- Extracting substrings and analyzing text positions
+- Validating and formatting user input
+- Converting between uppercase, lowercase, and other text transformations
+- Building interactive routines that respond to textual commands
+
+They are designed for learners to strengthen their understanding of text-based operations in algorithmic
+thinking, and to develop skills for handling data beyond numbers in structured programming.
